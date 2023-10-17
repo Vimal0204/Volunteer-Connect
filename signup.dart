@@ -12,7 +12,7 @@ class CustomerHomeScreen extends StatelessWidget {
       Navigator.of(context).pop();
     }
 
-    
+  
     return Scaffold(
       appBar: AppBar(
         title: const Text('Customers'),
